@@ -1,0 +1,4 @@
+2
+HD reference geometry; electronic calculation uses hydrogen nuclei, isotope masses are set in hd_gibbs.py
+H  0.000000  0.000000  0.000000
+H  0.000000  0.000000  0.741400
