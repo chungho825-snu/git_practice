@@ -1,6 +1,6 @@
 #!/bin/bash
 #SBATCH --job-name=hd-gibbs
-#SBATCH --nodelist=idle
+#SBATCH --nodelist=node8
 #SBATCH --nodes=1
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=1
