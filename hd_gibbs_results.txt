@@ -1,0 +1,6 @@
+HD Gibbs free energy
+method: B3LYP/6-31G(d)
+temperature: 298.15 K
+pressure: 1 atm
+G: -1.179682133244 Eh
+G: -3097.254993 kJ/mol
